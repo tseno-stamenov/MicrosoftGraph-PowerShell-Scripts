@@ -1,6 +1,6 @@
 # MicrosoftGraph-PowerShell-Scripts
 
-A repository where I will upload PowerShell scripts that I’ve written or tested myself in real environments, mainly for Microsoft 365, Azure, and Microsoft Graph.
+A repository where I will upload PowerShell scripts that I’ve written or tested myself in real environments, mainly for Microsoft 365, Azure, and Microsoft Graph. The scripts have been tested, but their use is at your own risk.
 
 ---
 
@@ -16,4 +16,4 @@ A repository where I will upload PowerShell scripts that I’ve written or teste
 ---
 
 ## Disclaimer 
-The scripts have been tested, but their use is at your own risk. | Скриптовете са тествани от мен, но използването им е на собствена отговорност. 
+Скриптовете са тествани от мен, но използването им е на собствена отговорност. 
